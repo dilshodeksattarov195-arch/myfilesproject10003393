@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchconnect",
+        "uuid": 30330027,
+        "checksum": "26twfm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
